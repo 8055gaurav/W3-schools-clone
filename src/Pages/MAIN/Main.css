@@ -1,0 +1,242 @@
+/* div{
+    border: 1px solid red;
+}
+section{
+    border: 1px solid red;
+} */
+
+.learn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: '100%';
+    padding-top: 9rem;
+    color: white;
+    font-size: 10vh;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.line{
+    color: #fdf4ad;
+    font-size: 1.1rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Poppins' , sans-serif;
+    
+}
+
+.astronaut{
+    width: fit-content;
+    position: absolute;
+    right: 5rem;
+    top: 10rem;
+    z-index: 0;
+    
+}
+.section2{
+    background-color: rgb(221, 237, 226);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.section2div{
+    justify-content: center;
+
+}
+.section3{
+    background-color: rgb(255, 244, 163);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.section3div{
+    justify-content: center;
+}
+.section4{
+    background-color: rgb(40,42,53);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    color: white;
+}
+.section4div{
+    justify-content: center;
+}
+
+.section5{
+    background-color: rgb(243, 236, 234) ;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.section5div{
+    justify-content: center;
+}
+.section6{
+    background-color: rgb(150, 212, 212);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.section6div{
+    justify-content: center;
+}
+.learnbtn{
+    background-color: #04AA6D;   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 11.6rem;
+    border-radius: 40px;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem; 
+}
+.refbtn{
+    background-color: #282A35;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 11.6rem;
+    border-radius: 40px;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.certificatebtn{
+    background-color: #FFC0C7;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 11.6rem;
+    border-radius: 40px;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.tryyourselfbtn{
+    background-color: #04AA6D;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 11.6rem;
+    border-radius: 40px;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.videobtn{
+    background-color: #FFF4A3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 11.6rem;
+    border-radius: 40px;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.inside1{
+    padding: 30px;
+    padding-right: 100px;
+}
+.inside1 h1{
+    font-size: 3.5rem;
+    font-weight: 650;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inside1 p{
+    font-weight: 500;
+}
+
+.buttonss{
+    padding-left: 2rem;
+}
+.inside2{
+    padding-left: 10px;
+    /* padding-right: 12em; */
+    background-color: rgb(231, 233, 235);
+    width: fit-content;
+}
+.inside2 h4{
+    font-weight: 600;
+    margin: 10px 0;
+}
+.inside3{
+    height: 280px;
+    max-height: fit-content;
+    font-size: 13px;
+    background-color: white;
+    margin-left:0.6rem;
+    padding: 20px 0;
+    padding-left: 10px;
+    width: 20rem;
+    margin-right: 2rem;
+    border-left: 4px solid #04AA6D; 
+    margin-bottom: 1.5rem;  
+}
+
+
+.section7{
+    background-color: #282A35;
+
+}
+.hh{
+    margin-top: 1rem;
+    text-align: center;
+}
+.headd{
+    text-align: center;
+}
+.pink{
+    background-color: #FFC0C7;
+    color: black;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+.yello{
+    background-color: #FFF4A3;
+    color: black;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+.babypink{
+    background-color: #F3ECEA;
+    color: black;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+.lgreen{
+    background-color: #D9EEE1;
+    color: black;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+.dgreen{
+    background-color: #96D4D4;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+.violet{
+    background-color: #E7E9EB;
+    color: black;
+    height: 30vh;
+    width: 30vw;
+    margin: 30px 30px;  
+}
+
+
+.section8{
+    background-color: #D9EEE1;
+    
+}
+
+.myLearning img{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+
+}

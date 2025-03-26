@@ -1,0 +1,73 @@
+/* div{
+    border: 1px solid red;
+} */
+.spacemyfooter{
+   
+    padding: 40px 80px 300px 80px;
+    max-width: 1400px;
+}
+.footermoon{
+    height: fit-content;
+    width: fit-content;  
+}
+.imgmoon{
+    height: 60vh;
+    width: 30vw;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+.footerlink1{
+    width: auto;
+    float: left;
+    padding: 40px;
+}
+.footerlink1 a{
+    color: rgb(255, 244, 163);
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.footerlink1 a:hover{
+    color: rgb(255, 244, 163);
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.footerlink1 p{
+    color: rgb(255, 244, 163);
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    font-size: x-small;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    color: #ddd;
+    padding-bottom: 2rem;
+    max-width: 60vw;
+}
+.lists{
+    display: list-item;
+}
+.content a{
+    display: block;
+    font-size: x-small;
+}
+.forum{
+    display: block;
+}
+
+.icons{
+    display: flex;
+}
+.ii{
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: small;
+}
+.para a{
+    color: #ddd;
+}
+.para a:hover{
+    color: rgb(255, 244, 163);
+}

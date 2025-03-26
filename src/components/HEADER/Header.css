@@ -1,0 +1,52 @@
+.header {
+    background-color: white;
+    position: fixed;
+    padding: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: 5rem;
+    isolation: isolate;
+  }
+
+
+.navbar-nav .nav-item .nav-link {
+    color: #333; 
+    background-color: transparent; 
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    background-color: #04AA6D; 
+    color: white; 
+  }
+  
+  .navbar-nav .nav-item .nav-link.active {
+    background-color: #04AA6D;; /* Change to your desired background color for the selected item */
+    color: white; /* Change to your desired text color for the selected item */
+  }
+  
+  .logo {
+    margin-left: 0;
+    margin-right: 2px; 
+    height: 2.5rem;
+    width: 3rem;
+}
+  
+  .logo-img {
+    padding-top: 0.41rem;
+    width: 45%;
+  }
+ 
+  /* div{
+    border: 1px solid red;
+  } */
+  
+  /* Media query for responsiveness */
+  /* @media screen and (max-width: 768px) {
+    .logo {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  } 
+   */
